@@ -9,3 +9,5 @@
 ![sketch](sketch.png)
 
 ![note_1](note_1.png)
+
+![note_2](note_2.png)
